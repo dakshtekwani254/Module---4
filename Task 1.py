@@ -11,3 +11,11 @@ def factorial(n):
 print("Calculating Factorial\n")
 number=int(input("Enter number: "))
 print(f"Factorial of {number} is: {factorial(number)}")
+
+#Sample Output
+'''
+Calculating Factorial
+
+Enter number: 5
+Factorial of 5 is: 120
+'''
